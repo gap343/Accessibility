@@ -38,6 +38,6 @@ $("#my-form").on('submit', function (e) {
     console.log("Called db collection Businesses");
 
     console.log(formData);
-    window.location.href = "index.html";
+    //window.location.href = "index.html";
 
 });
